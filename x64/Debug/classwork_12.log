@@ -1,0 +1,15 @@
+﻿  classwork_12.cpp
+C:\Users\malika\Desktop\Desktop\Малика\STEP\C++\Выполненное\homework_12\classwork_12\classwork_12\problem_03.h(20,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\malika\Desktop\Desktop\Малика\STEP\C++\Выполненное\homework_12\classwork_12\classwork_12\problem_03.h(44,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\malika\Desktop\Desktop\Малика\STEP\C++\Выполненное\homework_12\classwork_12\classwork_12\problem_03.h(50,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\malika\Desktop\Desktop\Малика\STEP\C++\Выполненное\homework_12\classwork_12\classwork_12\problem_04.h(23,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\malika\Desktop\Desktop\Малика\STEP\C++\Выполненное\homework_12\classwork_12\classwork_12\problem_04.h(29,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\malika\Desktop\Desktop\Малика\STEP\C++\Выполненное\homework_12\classwork_12\classwork_12\problem_05.h(21,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\malika\Desktop\Desktop\Малика\STEP\C++\Выполненное\homework_12\classwork_12\classwork_12\problem_06.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\malika\Desktop\Desktop\Малика\STEP\C++\Выполненное\homework_12\classwork_12\classwork_12\problem_06.h(26,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\malika\Desktop\Desktop\Малика\STEP\C++\Выполненное\homework_12\classwork_12\classwork_12\problem_06.h(31,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\malika\Desktop\Desktop\Малика\STEP\C++\Выполненное\homework_12\classwork_12\classwork_12\problem_06.h(36,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\malika\Desktop\Desktop\Малика\STEP\C++\Выполненное\homework_12\classwork_12\classwork_12\problem_06.h(41,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\malika\Desktop\Desktop\Малика\STEP\C++\Выполненное\homework_12\classwork_12\classwork_12\problem_07.h(19,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\malika\Desktop\Desktop\Малика\STEP\C++\Выполненное\homework_12\classwork_12\classwork_12\problem_08.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  classwork_12.vcxproj -> C:\Users\malika\Desktop\Desktop\Малика\STEP\C++\Выполненное\homework_12\classwork_12\x64\Debug\classwork_12.exe
